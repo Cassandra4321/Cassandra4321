@@ -1,9 +1,12 @@
 Hello there! 👋😄
 
-My name is Cassandra, and I'm a newly graduate .NET developer!  
-- 🔭 I’m currently working on a bookingsystem for a fictional gym/yoga studio [BookingSystemGit](https://github.com/Cassandra4321/BookingSystem). This is a continuation of my final exam project.
+My name is Cassandra, and I'm a newly graduate .NET developer!
+-  I’m currently working on a horse/stable application, using .NET and Angular. 🐴
+
   
-  💡 The project is built with a .NET C# backend that follows the principles of a REST API, so it uses standard HTTP methods (GET, POST, PUT, DELETE) to allow clients to create, retrieve, update, and delete data such as bookings, classes, and users.
+- My final exam project was a bookingsystem for a fictional gym/yoga studio [BookingSystemGit](https://github.com/Cassandra4321/BookingSystem).
+  
+  💡 This project is built with a .NET C# backend that follows the principles of a REST API, so it uses standard HTTP methods (GET, POST, PUT, DELETE) to allow clients to create, retrieve, update, and delete data such as bookings, classes, and users.
   
   💻 On the frontend, I'm using React with TypeScript to build a responsive and interactive user interface, which communicates with the backend through the REST API.
   
