@@ -13,4 +13,8 @@ My name is Cassandra, and I'm a newly graduate .NET developer!
   ⚙️ This setup makes the application modular, scalable, easy to maintain, and helps me practice fullstack development with modern technologies.
 
 
-- 🧠 During my spare time when I'm not working on my previously mentioned project (or searching for my first junior position👀), I’m trying to learning Python and the fundamentals of machine learning, as I'm very interested in AI! 
+- 🧠 During my spare time when I'm not working on my previously mentioned project (or searching for my first junior position👀), I’m trying to learning Python and the fundamentals of machine learning, as I'm very interested in AI!
+
+
+
+  ![](https://komarev.com/ghpvc/?username=cassandra4321&style=pixel)
