@@ -17,4 +17,4 @@ My name is Cassandra, and I'm a newly graduate .NET developer!
 
 
 
-  ![](https://komarev.com/ghpvc/?username=cassandra4321&style=pixel)
+  ![](https://komarev.com/ghpvc/?username=cassandra4321&style=flat)
