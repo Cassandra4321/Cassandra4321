@@ -1,8 +1,9 @@
 Hello there! 👋😄
 
 My name is Cassandra, and I'm a newly graduate .NET developer!
--  I’m currently working on a horse/stable application, using .NET and Angular. [EquiLog](https://github.com/Cassandra4321/EquiLog) 🐴 
+-  I'm currently creating a personal finance app, which will be using microservices architecture (something I'm new too and eager to learn!). 
 
+-  I’ve also got a project for a horse/stable application, using .NET and Angular. [EquiLog](https://github.com/Cassandra4321/EquiLog) 🐴 
   
 - My final exam project was a bookingsystem for a fictional gym/yoga studio [BookingSystemGit](https://github.com/Cassandra4321/BookingSystem).
   
