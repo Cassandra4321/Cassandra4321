@@ -1,4 +1,4 @@
-Hello there! 👋😄
+Hello! 👋😄
 
 My name is Cassandra, and I'm a newly graduate .NET developer!
 -  I'm currently creating a personal finance app, which will be using microservices architecture (something I'm new too and eager to learn!). 
