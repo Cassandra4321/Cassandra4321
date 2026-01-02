@@ -1,4 +1,4 @@
-Hello! 👋😄
+Hello! 👋
 
 My name is Cassandra, and I'm a newly graduate .NET developer!
 -  I'm currently creating a personal finance app, which will be using microservices architecture (something I'm new too and eager to learn!). 
@@ -15,7 +15,6 @@ My name is Cassandra, and I'm a newly graduate .NET developer!
 
 
 - 🧠 During my spare time when I'm not working on my previously mentioned project (or searching for my first junior position👀), I’m learning Python and the fundamentals of machine learning, as I'm very interested in AI!
-
 
 
   ![](https://komarev.com/ghpvc/?username=cassandra4321&style=pixel) 
