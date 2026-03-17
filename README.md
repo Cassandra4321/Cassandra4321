@@ -1,7 +1,8 @@
 Hello! 👋
 
 My name is Cassandra, and I'm a junior .NET developer!
--  I'm currently creating a personal finance app, which is using microservices architecture (something I'm new too and eager to learn!).
+
+-  I'm currently creating a personal finance app, which is using microservices architecture, Docker, RabbitMQ and PostgresSQL. All of these are new to me so I am eager to learn them!
 
 -  I’ve also got a project for a horse/stable application, using .NET and Angular. [EquiLog](https://github.com/Cassandra4321/EquiLog) 🐴 
   
